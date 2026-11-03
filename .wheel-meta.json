@@ -1,0 +1,22 @@
+{
+  "wheel_id": 695,
+  "structure": "umbrella",
+  "slug": "webdesigninadelaide-106",
+  "project": "web-design-services-adelaide-glossary-470852da6862f72a6664e086f",
+  "parent_t1_ref": "webdesigninadelaide-152",
+  "node_role": "feeder",
+  "money_target": "webdesigninadelaide.com.au",
+  "primary_kw": "web design services adelaide glossary",
+  "intended_url": "http://web-design-services-adelaide-glossary-470852da6862f72a6664e086f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "6e4cab0ec2da0422",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/web-design-services-adelaide-d85c3958443acb12c6ed0bb7806543d7a6/",
+      "anchor": "web design services adelaide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
